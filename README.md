@@ -1,4 +1,6 @@
-#### Hosted with ❤ by Github over here: [https://vojtastruhar.github.io/steam-review-template/](https://vojtastruhar.github.io/steam-review-template/)
+#### Hosted with ❤ by Github over here: [https://janishutz.github.io/steam-review-template/](https://janishutz.github.io/steam-review-template/)
+
+Please note that compared to the upstream version, only English has been modified
 
 # Steam Review Template
 
