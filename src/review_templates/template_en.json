@@ -6,25 +6,25 @@
             "title": "Graphics",
             "type": "radio",
             "options": [
-                "You forget what reality is",
-                "Beautiful",
+                "Reality looks disappointingly ugly in comparison",
+                "Gorgeous",
                 "Good",
                 "Decent",
                 "Bad",
-                "Don‘t look too long at it",
-                "MS-DOS"
+                "Bus Simulator 16 Ultra Low settings",
+                "1$ Budget game"
             ]
         },
         {
             "title": "Gameplay",
             "type": "radio",
             "options": [
-                "Very good",
+                "Half Life 2",
+                "Excellent",
                 "Good",
                 "It's just gameplay",
                 "Mehh",
                 "Watch paint dry instead",
-                "Just don't"
             ]
         },
         {
@@ -34,15 +34,16 @@
                 "Eargasm",
                 "Very good",
                 "Good",
-                "Not too bad",
+                "Manageable",
                 "Bad",
-                "I'm now deaf"
+                "My ears!"
             ]
         },
         {
             "title": "Audience",
             "type": "check",
             "options": [
+                "Toddler",
                 "Kids",
                 "Teens",
                 "Adults",
@@ -53,12 +54,14 @@
             "title": "PC Requirements",
             "type": "radio",
             "options": [
-                "Check if you can run paint",
+                "Check if you have a PC",
                 "Potato",
+                "Smart toaster",
                 "Decent",
                 "Fast",
-                "Rich boi",
-                "Ask NASA if they have a spare computer"
+                "Ask your employer if they can give you a 500% pay rise",
+                "Invest into Quantum computing",
+                "Get into a rocket flying at >50% speed of light. Wait 3 months, return to earth. Play the game" 
             ]
         },
         {
@@ -69,8 +72,9 @@
               "Old Fashioned",
               "Workable",
               "Big",
-              "Will eat 15% of your 1TB hard drive",
-              "You will want an entire hard drive to hold it",
+              "Will eat 20% of your 1TB drive",
+              "You will want an entire drive just to hold it",
+              "Ask Google if they have a spare mega-datacenter",
               "You will need to invest in a black hole to hold all the data"
             ]
           },          
@@ -83,7 +87,7 @@
                 "Easy to learn / Hard to master",
                 "Significant brain usage",
                 "Difficult",
-                "Dark Souls"
+                "Learned to code in Brainfuck. Wrote a whole OS in it. Playing this game is the hardest thing I have done in my life"
             ]
         },
         {
@@ -93,9 +97,11 @@
                 "Nothing to grind",
                 "Only if u care about leaderboards/ranks",
                 "Isn't necessary to progress",
-                "Average grind level",
-                "Too much grind",
-                "You'll need a second life for grinding"
+                "Average paid game",
+                "Average Free-To-Play game",
+                "You'll need to clone yourself",
+                "Invent anti-aging technology and time travel",
+                "WarThunder"
             ]
         },
         {
@@ -118,7 +124,7 @@
                 "Short",
                 "Average",
                 "Long",
-                "To infinity and beyond"
+                "You'll die before this game runs out of content"
             ]
         },
         {
@@ -128,9 +134,9 @@
                 "It's free!",
                 "Worth the price",
                 "If it's on sale",
-                "If u have some spare money left",
+                "If you find some spare Latifi Money behind the couch",
                 "Not recommended",
-                "You could also just burn your money"
+                "Burning your money is more worth it"
             ]
         },
         {
@@ -140,8 +146,50 @@
                 "Never heard of",
                 "Minor bugs",
                 "Can get annoying",
-                "ARK: Survival Evolved",
-                "The game itself is a big terrarium for bugs"
+                "Cities: Skylines II at launch",
+                "Developers showing off their bug implementation skills",
+                "Microsoft Flight Simulator 2024"
+            ]
+        },
+        {
+            "title": "Linux compatibility",
+            "type": "radio",
+            "options": [
+                "Wipes Windows in frames per seconds",
+                "Just as good",
+                "With a bit of brain usage perfectly fine",
+                "Click a few buttons, game worky fine",
+                "Will work about as well as Microsoft Flight Simulator 2024 on Windows at launch",
+                "Don't even try",
+                "Rainbow Six Siege",
+                "Developers tried their best to stop you"
+            ]
+        },
+        {
+            "title": "Special input devices needed?",
+            "type": "radio",
+            "options": [
+                "Only if you like pain",
+                "A controller is just as good",
+                "Controller better",
+                "Unless you want to steer your car using your mind, get a controller of sorts",
+                "Steering Wheel, if you want to improve",
+                "Joystick",
+                "You'll want to buy all the special input devices you can find for all the keybinds"
+            ]
+        },
+        {
+            "title": "Community",
+            "type": "radio",
+            "options": [
+                "No statement",
+                "Active & friendly",
+                "Average",
+                "Active & there is no in-game chat",
+                "As active as toxic (=very)",
+                "A gaming community?",
+                "Rocket League",
+                "Call of Duty",
             ]
         },
         {
